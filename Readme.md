@@ -6,4 +6,7 @@
 </p>
 
 ### Build created image
-<img src="print.png">
+<img src="./images/print.png">
+
+### Running my image
+<img src="./images/printRun.png">
