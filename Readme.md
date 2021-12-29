@@ -6,4 +6,4 @@
 </p>
 
 ### Build created image
-<img src="./ok.png">
+<img src="print.png">
